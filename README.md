@@ -5,7 +5,7 @@
 
 Access the app deployed on heroku here!
 
-![link](https://tranquil-journey-93809.herokuapp.com/)
+[link](https://tranquil-journey-93809.herokuapp.com/)
 
 ## Useage
 
