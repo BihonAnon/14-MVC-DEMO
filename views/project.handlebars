@@ -4,9 +4,8 @@
   <p>{{description}}</p>
   <p>Created by {{user.name}} on {{format_date date_created}}</p>
   <p>
-    <span for="img" aria-label="money">💲</span>
-    <span class="dollar-amount">{{format_amount needed_funding}}</span>
-    needed
+    <input type="text" class="form-input" id="commentName" name="comment-name" placeholder="Write Your Name Here ...">
+    <input type="text" class="form-input" id="commentDesc" name="comment-desc" placeholder="Write Your Comment Here ...">
   </p>
   <p>
     <button class="btn btn-primary">Fund this Project!</button>
